@@ -2,9 +2,10 @@
 
 /**
 * print_buffer - prints buffer
-* @b: buffer number of bytes
+* @b: buffer
 * @size: size of the byte
 */
+
 void print_buffer(char *b, int size)
 {
 int o, j, i;
